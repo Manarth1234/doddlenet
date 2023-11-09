@@ -1,0 +1,26 @@
+body {
+    background: rgb(21, 255, 0);
+    color: rgb(251, 2, 2);
+}
+#score {
+    font-size: 20px;
+    margin-left: 15px;
+}
+#timer {
+    font-size: 20px;
+    float: right;
+    margin-right: 25px;
+}
+#label {
+    font-size: 20px;
+}
+#confidence {
+    font-size: 20px;
+}
+#sketch_name {
+    font-size: 25px;
+    font-weight: bold;
+}
+#show_sketch {
+    float: right;
+}
